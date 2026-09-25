@@ -2,7 +2,6 @@
 
 <p align="center">
   Étudiant en BUT Informatique (IUT d'Amiens) · Alternant chez Agisoft Engineering<br/>
-  Je code des projets perso entre deux cours, en route vers une école d'ingénieur spécialisée IA.
 </p>
 
 ---
